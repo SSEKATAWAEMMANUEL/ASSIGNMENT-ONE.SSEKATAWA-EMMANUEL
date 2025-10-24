@@ -1,0 +1,42 @@
+body{
+    border: 5px solid red;
+    border-radius: 12px;
+}
+h1{
+    text-align: center;
+    font-style: italic;
+    font-size: 28px;
+    color: greenyellow;
+    border: 2px solid yellowgreen;
+    display: block;
+    border-radius: 15px;
+}
+header{
+    font-size:larger;
+    color: yellowgreen;
+    text-align:center;
+    background-color:burlywood;
+}
+footer{
+    font-size:larger;
+    color: blue;
+    text-align:center;
+    background-color: aquamarine;
+
+}
+div{
+    margin: 25px;
+}
+    
+div{
+padding: 100px;
+border: 5px solid red;
+border-radius:15px;
+color: blue;
+text-align:center;
+font-size: larger;
+}
+   
+
+
+
